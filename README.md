@@ -94,6 +94,16 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 </kbd>
 <h3> Study Design: MechaCar vs Competition </h3>
 
+To test the different parameters of performance, the MechaCars should be tested for following performance metrics:
+
+- Acceleration (time taken for acceleration from 0 to 100 km/h in seconds)
+- Braking Distance (feet)
+- Cornering 
+- Steering
+- Throttle
+
+The statistical analysis of the tests results of MechaCars against the other cars could give us the performance 
+
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 In your description, address the following questions:
 What metric or metrics are you going to test?
