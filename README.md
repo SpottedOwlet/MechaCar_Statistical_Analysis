@@ -39,7 +39,6 @@ mpg = 6.26713(vehicle_length) + 0.00125(vehicle_weight) + 0.06877(spoiler_anlge)
 
 ```
 <br>
-<br>
 
 - From the above equation of line, we also see that the slope of the linear equation is not zero, as all the coefficients of the predictor variables are non-zero.
 
@@ -54,6 +53,8 @@ mpg = 6.26713(vehicle_length) + 0.00125(vehicle_weight) + 0.06877(spoiler_anlge)
 </kbd>
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+The variance for Lot 1 and Lot 2 are within the limit, however for the Lot 3 the variance is well above 100 (it is 170.28) lbs per sq inch. For the summary statistics for the whole dataset, the variance falls under the limit. This could be because more of the unusual data points might be present in the lot 3 when the data was divided. But is can not be said with confidence that the current manufacturing data meets design specifications for all lots.
 
 <kbd>
 
