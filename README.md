@@ -26,23 +26,31 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
   
 </kbd>
 
+<br>
+<br>
 
 
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- From the linear regression equation, it can be inferred that vehicle length and ground clearance have the highest effect on mpg as they have very small p-values and large coefficients on the line equation. Even if other factors remain unchanged, these have have the highest impacts on the mpg levels. The linear regression supports the alternate hypothesis that the changes in the mpg with changes in vehicle length and ground clearance are not due to random chance.
 
+```
+Equation of the line:
 
-- Is the slope of the linear model considered to be zero? Why or why not?
+mpg = 6.26713(vehicle_length) + 0.00125(vehicle_weight) + 0.06877(spoiler_anlge) + 3.54553(ground_clearance) - 3.41150(AWD) - 103.96398
 
+```
+<br>
+<br>
 
-- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- From the above equation of line, we also see that the slope of the linear equation is not zero, as all the coefficients of the predictor variables are non-zero.
+
+- With very small p-values for vehicle length and ground clearance, regression model establishes statistical significance between these two predictor variables. However, for other variables, the regression model does not establish statistically significant relationship.
 
 <h3> Summary Statistics on Suspension Coils </h3>
+<br>
 <kbd>
   
  ![Screen Shot 2022-02-13 at 8 48 00 PM](https://user-images.githubusercontent.com/90424752/153801771-e706869e-8c26-4c6c-b7a3-948c25f440dd.png)
 
-  
-  
 </kbd>
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
