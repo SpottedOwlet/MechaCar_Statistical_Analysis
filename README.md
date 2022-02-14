@@ -72,16 +72,20 @@ The variance for Lot 1 and Lot 2 are within the limit, however for the Lot 3 the
   
 </kbd>
 
+<br>
 
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+- Assuming level of significance to be 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
 <h4> T-Test on Manufacturing Lot1 </h4>
 
 <kbd>
   
   ![Screen Shot 2022-02-13 at 8 54 10 PM](https://user-images.githubusercontent.com/90424752/153802336-5ae913f8-d1c7-4dd2-b450-a1bca686ccfb.png)
-
   
 </kbd>
+<br>
+
+- The p-value of 1 indicates that there is no difference between the groups other than due to random chance. Hence our null hypothesis in this case is true and the means are statistically similar.
 
 <h4> T-Test on Manufacturing Lot2 </h4>
 <kbd>
@@ -90,13 +94,18 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
   ![Screen Shot 2022-02-13 at 8 55 00 PM](https://user-images.githubusercontent.com/90424752/153802420-e43e0226-9cac-43cd-bd74-b1a89637b56a.png)
 
 </kbd>
+<br>
+
+- The p-value of 0.6 i.e. p-value above the significance level and the means are statistically similar.
 
 <h4> T-Test on Manufacturing Lot3 </h4>
 <kbd>
   
   ![Screen Shot 2022-02-13 at 8 55 44 PM](https://user-images.githubusercontent.com/90424752/153802480-73f97560-5793-4a50-94fb-9f0b0d709e3f.png)
 
+<br>
 
+- The p-value of 0.4 i.e. p-value below the significance level and the means in this sample are not statistically similar. Hence, in this case we can reject our null-hypothesis.
   
 </kbd>
 <h3> Study Design: MechaCar vs Competition </h3>
