@@ -59,13 +59,39 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 <h4> T-Test on Complete Dataset </h4>
 
+<kbd>
+  
+  ![Screen Shot 2022-02-13 at 8 52 21 PM](https://user-images.githubusercontent.com/90424752/153802254-d26b09a7-63d7-40ec-ad9a-dd6c76455447.png)
+  
+</kbd>
+
+
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 <h4> T-Test on Manufacturing Lot1 </h4>
 
+<kbd>
+  
+  ![Screen Shot 2022-02-13 at 8 54 10 PM](https://user-images.githubusercontent.com/90424752/153802336-5ae913f8-d1c7-4dd2-b450-a1bca686ccfb.png)
+
+  
+</kbd>
+
 <h4> T-Test on Manufacturing Lot2 </h4>
+<kbd>
+  
+
+  ![Screen Shot 2022-02-13 at 8 55 00 PM](https://user-images.githubusercontent.com/90424752/153802420-e43e0226-9cac-43cd-bd74-b1a89637b56a.png)
+
+</kbd>
 
 <h4> T-Test on Manufacturing Lot3 </h4>
+<kbd>
+  
+  ![Screen Shot 2022-02-13 at 8 55 44 PM](https://user-images.githubusercontent.com/90424752/153802480-73f97560-5793-4a50-94fb-9f0b0d709e3f.png)
 
+
+  
+</kbd>
 <h3> Study Design: MechaCar vs Competition </h3>
 
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
