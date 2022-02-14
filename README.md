@@ -102,12 +102,12 @@ The variance for Lot 1 and Lot 2 are within the limit, however for the Lot 3 the
 <kbd>
   
   ![Screen Shot 2022-02-13 at 8 55 44 PM](https://user-images.githubusercontent.com/90424752/153802480-73f97560-5793-4a50-94fb-9f0b0d709e3f.png)
-
+  
+</kbd>
 <br>
 
 - The p-value of 0.4 i.e. p-value below the significance level and the means in this sample are not statistically similar. Hence, in this case we can reject our null-hypothesis.
-  
-</kbd>
+
 <h3> Study Design: MechaCar vs Competition </h3>
 
 To test the different parameters of performance, the MechaCars should be tested for following performance metrics:
