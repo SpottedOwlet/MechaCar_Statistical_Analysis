@@ -96,19 +96,22 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 
 To test the different parameters of performance, the MechaCars should be tested for following performance metrics:
 
-- Acceleration (time taken for acceleration from 0 to 100 km/h in seconds)
+- Acceleration time (time taken for acceleration from 0 to 100 km/h in seconds)
 - Braking Distance (feet)
 - Cornering 
 - Steering
-- Throttle
+- Maintenance Costs
+
 
 The statistical analysis of the tests results of MechaCars against the other cars could give us the performance 
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+**Null Hypothesis:** There is no difference between acceleration time (or any other metric chosen for study) between  MecharCar and Competition vehicles
 
+**Alternative Hypothesis:** There is difference between acceleration time (or any other metric chosen for study) between MecharCar and Competition vehicles
+
+**Statistical tests:**
+The data for above statistical analysis would be in the form of sample datasets for MechaCar vs samples for other cars. We could analyze this with the help of Two-sample t-tests to compare the performance metrics for MechaCar and Competition vehicles.
+
+**Dataset Requirement:**
+The data for all the test metrics mentioned above, for MechaCar as well as other Competitor cars with at least 30+ data points should be chosen for this study.
 
