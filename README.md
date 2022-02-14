@@ -37,15 +37,20 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 <h3> Summary Statistics on Suspension Coils </h3>
-
+<kbd>
+![Screen Shot 2022-02-13 at 8 36 00 PM](https://user-images.githubusercontent.com/90424752/153800774-bf016d40-0e77-4e35-927b-af39e5e24295.png)
+</kbd>
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+<kbd>
+![Screen Shot 2022-02-13 at 8 36 27 PM](https://user-images.githubusercontent.com/90424752/153800804-664109ae-7145-40d0-842b-fa937e3e6440.png)
+</kbd>
 
 
 <h3> T-Tests on Suspension Coils  </h3>
 
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
-
 
 
 <h3> Study Design: MechaCar vs Competition </h3>
